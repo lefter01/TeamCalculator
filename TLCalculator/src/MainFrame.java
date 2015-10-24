@@ -20,7 +20,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.ActionListener;
 import java.util.function.DoublePredicate;
 
-
+//lololol
 public class MainFrame extends JFrame {
 
 	private JPanel contentPane;
